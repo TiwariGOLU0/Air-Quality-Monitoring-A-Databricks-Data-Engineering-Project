@@ -1,4 +1,4 @@
-# Air Quality Data Platform
+# Air Quality Monitoring: A Databricks Data Engineering Project
 
 An enterprise-grade, cloud-native data lakehouse built with AWS, PySpark, Apache Airflow, and Power BI to ingest, validate, transform, and analyze multi-year environmental metrics.
 
